@@ -1,5 +1,6 @@
 # Parcial_uno_servicios_telematicos
 este es el github del primer parcial
+
 primera parte:
 1. Configuración del servidor maestro (192.168.50.3)
 
